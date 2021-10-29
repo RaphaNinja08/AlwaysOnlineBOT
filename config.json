@@ -1,0 +1,9 @@
+{
+	"ip":"ult8.falix.gg",
+	"port": 35837,
+	"name": "AlwaysOnlineBOT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register afkbot afkbot",
+	"login-cmd":"/login afkbot"
+}
